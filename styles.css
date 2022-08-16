@@ -5,6 +5,9 @@ h3 {
 }
 #dee {
     font-style: italic;
-    background-image: -webkit-linear-gradient(45deg, #A683E3 50%, #E4E9FD 30%, #B270A2 20%);
+    background-image: -webkit-linear-gradient(45deg, #A683E3 50%, #E4E9FD 50%);
     color: black;
+    border-radius: 25px;
+    border-color: aqua;
+    text-shadow: 5px 2px 1px darkgoldenrod;
 }
